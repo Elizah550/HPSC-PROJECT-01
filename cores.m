@@ -1,0 +1,3 @@
+feature('numcores')
+
+ver('Parallel')
